@@ -1,6 +1,6 @@
 var nome = prompt('Digite seu nome para acessar a pagina:')
 while ( nome!= 'Rocky') {
-    alert('Você não é o desenvolvedor desse site.')
+    alert('Você não é o desenvolvedor desse site. Portfólio em desenvolvimento...')
     nome = prompt('Digite seu nome para acessar a pagina:')
 }
 alert('Acesso liberado, bem vindo, Felipe!')
