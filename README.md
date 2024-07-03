@@ -17,7 +17,7 @@
 ##
 
 <div>
-  <a href=""> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> 
+  <a href="https://mail.google.com/mail/u/2/#inbox"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> 
   <a href="https://wa.me/+5519993379264"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> </a>
   <a href="https://www.linkedin.com/in/felipe-rodrigues-321778272/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 </div>
